@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "start": "live-server src --port=3000"
+    "start": "live-server --port=3000"
   },
   "repository": {
     "type": "git",
